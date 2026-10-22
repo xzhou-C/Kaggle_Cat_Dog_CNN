@@ -1,0 +1,9 @@
+data/
+runs/
+PetImages/
+*.zip
+__pycache__/
+.ipynb_checkpoints/
+*.keras
+!demo/model.keras
+flagged/

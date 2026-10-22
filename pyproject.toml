@@ -1,0 +1,11 @@
+[project]
+name = "catdog"
+version = "1.0.0"
+description = "Cats vs Dogs: custom CNN vs fine-tuned EfficientNet, with calibrated evaluation and Grad-CAM"
+requires-python = ">=3.10"
+
+[tool.setuptools.packages.find]
+where = ["src"]
+
+[tool.pytest.ini_options]
+pythonpath = ["src"]
