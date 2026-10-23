@@ -1,4 +1,4 @@
-# Cats vs Dogs: from-scratch CNN vs transfer learning, evaluated like a data scientist
+# Cats vs Dogs: from-scratch CNN vs transfer learning, evaluations
 
 Binary image classifier on the Microsoft/Kaggle *Cats and Dogs* dataset (25k photos). The project
 compares a CNN I built and tuned from scratch against a fine-tuned EfficientNetB0. It reports results
