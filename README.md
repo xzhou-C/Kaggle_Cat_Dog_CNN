@@ -5,7 +5,7 @@ compares a CNN I built and tuned from scratch against a fine-tuned EfficientNetB
 with confidence intervals, a paired significance test, calibration and slice analysis, and uses
 Grad-CAM to show where each model looks when it gets an image wrong.
 
-**[Live demo](#)** · **[Full run with outputs](notebooks/02_full_run_colab.ipynb)** · **[Reproduce with the CLI on Colab](notebooks/01_reproduce_on_colab.ipynb)** · **[Original v1 notebook](notebooks/00_original_exploration.ipynb)**
+**[Full run with outputs](notebooks/02_full_run_colab.ipynb)** · **[Reproduce with the CLI on Colab](notebooks/01_reproduce_on_colab.ipynb)** · **[Original v1 notebook](notebooks/00_original_exploration.ipynb)**
 
 ## Results
 
